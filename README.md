@@ -34,5 +34,7 @@ It is also noticeable that the business is viable in each day of a week having c
 
 The incidence of bike maintenance is mitigated by the high number of bicycles that allows an even usage of the bikes with a high volume of user and trips.
 
+To have a better understande of the geografic distribution of the trips a map of volume of trips by start point locations is suggested as much as a map with the volume of trips by stop locations. Theses could give an understanding of where would be do areas in the city that could have more offers of bicycles and propaganda.
+
 [link to dashboard ](https://public.tableau.com/shared/N9F42HYW6?:display_count=n&:origin=viz_share_link "link to dashboard")
 
